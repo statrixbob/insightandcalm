@@ -2,5 +2,4 @@
 {"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
 ---
 
-
-#index
+Welcome to my digital garden!
