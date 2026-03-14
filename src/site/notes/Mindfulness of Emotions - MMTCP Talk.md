@@ -7,17 +7,15 @@
 
 **Source:** https://copilot.microsoft.com/chats/tvGnaVLaV4dwXRhX3q3sX
 
-# **Mindfulness of Emotions — 12–15 Minute Beginner Talk (with Rilke integrated)**
+# **Mindfulness of Emotions — Beginner Talk (12–15 minutes, with Rilke \+ Sutta)**
 
 ## **0:00–1:00 — Opening: Why Emotions Matter**
 
-When people start meditation, they often expect calm. What they actually meet is emotion — sometimes subtle, sometimes intense. That’s not a mistake. Emotions are part of the landscape of being human, and mindfulness gives us a way to relate to them with more clarity and kindness.
-
-The early Buddhist teachings place emotions right at the center. After mindfulness of the body, the Buddha turns immediately to mindfulness of **feeling tone** — because this is where our reactions begin.
+Many people come to meditation expecting calm. What they actually meet is emotion — sometimes subtle, sometimes intense. This isn’t a problem; it’s part of the practice. Mindfulness gives us a way to relate to emotions with more clarity and less struggle. In the early teachings, emotions are central: right after the body, the Buddha turns to **feeling tone**.
 
 ## **1:00–3:00 — Feeling Tone (Vedanā): The Step Before Emotion**
 
-A helpful distinction is that **feeling tone is not the emotion itself**. It’s the very first thing that happens when we encounter any experience.
+A key distinction: **feeling tone is not the emotion itself**. It’s the very first thing that happens when we encounter experience.
 
 Feeling tone is simply:
 
@@ -28,9 +26,7 @@ Feeling tone is simply:
 -   neutral
     
 
-It’s quick, often unconscious, and it shows up with everything — a sound, a thought, a memory, a sensation. This tone is the **spark**. Emotion is the **fire** that can build around it.
-
-Emotion comes later: the body activation, the story, the meaning, the impulse to act.
+It’s fast, often unconscious — the body’s quick read. Emotion comes later: the story, the meaning, the impulse to act.
 
 **Cue:** “Right now, just notice: is this moment pleasant, unpleasant, or neutral?”
 
@@ -38,18 +34,32 @@ Emotion comes later: the body activation, the story, the meaning, the impulse to
 
 Once tone appears, the mind tends to react:
 
--   pleasant → leaning in, wanting more
+-   pleasant → leaning in, wanting
     
 -   unpleasant → tightening, pushing away
     
 -   neutral → drifting, zoning out
     
 
-These reactions can quickly become full emotions — fear, anger, shame, joy, grief. When we don’t notice the tone, we get swept into the emotion. When we *do* notice it, we have a moment of choice.
+These reactions can quickly become full emotions — fear, anger, shame, joy, grief. When we don’t notice tone, we get swept into the emotion. When we *do* notice tone, we have a moment of choice.
 
-**Cue:** Use a simple example: a text notification, someone’s expression, a memory.
+**Cue:** Use a simple example — a text notification, a facial expression, a memory.
 
-## **5:00–7:00 — What Triggers Feeling Tone (Including the Eight Winds)**
+## **5:00–7:00 — A Sutta Reference: The Buddha on Feeling Tone and Emotion**
+
+This distinction between tone and emotion goes all the way back to the Buddha. In the **Sallatha Sutta (SN 36.6)** — *The Arrow* — he describes how an untrained mind reacts to unpleasant feeling:
+
+> “When touched with a feeling of pain, the uninstructed person sorrows, grieves, and laments… **Touched by two arrows**, they feel pain in body and pain in mind.”
+
+And then he contrasts this with the trained mind:
+
+> “The well‑instructed disciple, when touched with a feeling of pain, **feels one arrow**, not two.”
+
+The first arrow is **vedanā** — the raw tone. The second arrow is **the emotional reaction**.
+
+This is exactly what we’re practicing: noticing the first arrow so we don’t automatically fire the second.
+
+## **7:00–9:00 — What Triggers Feeling Tone (Including the Eight Winds)**
 
 Feeling tone can be triggered by almost anything:
 
@@ -79,11 +89,11 @@ A classic example set is the **Eight Worldly Winds**:
 -   fame / disrepute
     
 
-Each of these produces a tone before it produces an emotion. But they’re just examples — tone is happening all the time.
+Each one produces a tone before it produces an emotion. But they’re just examples — tone is happening constantly.
 
 **Cue:** “Some of you may remember we talked about these winds recently — they’re a great illustration of how quickly tone arises.”
 
-## **7:00–9:00 — How We Sense Emotion (Three Channels)**
+## **9:00–11:00 — How We Sense Emotion (Three Channels)**
 
 People sense emotion differently:
 
@@ -98,32 +108,13 @@ Most of us have one dominant channel. Mindfulness helps us widen our capacity so
 
 **Cue:** “Where do emotions tend to show up for you — body, heart, or mind?”
 
-## **9:00–11:00 — Normalizing Emotion**
+## **11:00–13:00 — Normalizing Emotion**
 
 Emotions are not signs of failure — they’re signs of being alive. Fear, anger, numbness, joy — all normal. Mindfulness invites us to say, “Oh, this is here,” without shame or judgment.
 
 Beginners often think emotions mean they’re doing meditation wrong. In fact, emotions are part of the practice.
 
-**Cue:** Share a simple, human example from your own experience.
-
-## **11:00–13:00 — The Hindrances as Emotional Patterns**
-
-The traditional hindrances are really emotional states:
-
--   wanting
-    
--   not‑wanting
-    
--   restlessness
-    
--   dullness
-    
--   doubt
-    
-
-They’re called hindrances only because they cloud clarity, not because they’re bad. Naming them gently — “wanting,” “fear,” “restless” — creates space. Awareness becomes larger than the emotion.
-
-**Cue:** A light example: “Ever sat down and immediately planned lunch?”
+**Cue:** Offer a simple, human example from your own experience.
 
 ## **13:00–15:00 — Respecting Emotions & Closing (with Rilke poem integrated)**
 
