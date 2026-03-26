@@ -23,6 +23,7 @@
 ### **1. Introduce the sutta (10–15 seconds)**
 
 - “There’s a short sutta on _appamāda_ — heedfulness — where the Buddha names four places we shouldn’t drift or postpone what’s skillful.”
+Heedfulness Appamāda Sutta (AN 4:116) “Monks, there are four instances where heedfulness should be exercised. Which four? Abandon bodily misconduct, develop good bodily conduct: Don’t be heedless there. Abandon verbal misconduct, develop good verbal conduct: Don’t be heedless there. Abandon mental misconduct, develop good mental conduct: Don’t be heedless there. Abandon wrong view, develop right view: Don’t be heedless there.1 “When, in a monk, bodily misconduct is abandoned, good bodily conduct is developed; verbal misconduct is abandoned, good verbal conduct is developed; mental misconduct is abandoned, good mental conduct is developed; wrong view is abandoned, right view is developed, then he has no fear of death as it relates to the next life.”2
     
 
 ### **2. Name the four areas (30 seconds)**
