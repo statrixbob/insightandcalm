@@ -127,3 +127,133 @@
 -   **The "Take-Home":** "He isn't fighting anything, but he isn't helpless either."
     
 -   **The Invitation:** Invite the sangha to find that "at home" quality in the upcoming sit—letting the breath be the tide, and the mind be the earth.
+# 🌊 **Second Sitting — 20 Minutes**
+
+### _Upekkhā: The Clearing and the Swells_
+
+## 🌉 **Bridge from the Talk into the Sit (30–45 seconds)**
+
+> “We’ve been looking at equanimity through two images tonight — the clearing in the forest, and the little duck on the swells. Both point to the same thing: a way of being present without tightening, without collapsing, without needing the moment to be different.
+> 
+> In this second sit, we’ll explore that quality directly. Not as an idea, but as a felt sense — the earth beneath us, the breath moving through us, the swells rising and falling.
+> 
+> Nothing to fight. Nothing to chase. Just learning how to be at home in the movement.”
+
+## **0:00–1:30 — Settling / Re‑Arriving**
+
+- Invite posture: upright, relaxed, honest.
+    
+- Let the breath come and go on its own.
+    
+- Feel the body supported by the earth.
+    
+- “We began with kindness and compassion. Now we widen into steadiness.”
+    
+
+## **1:30–3:00 — The Ordinary Field**
+
+- Sense weight, contact, temperature.
+    
+- Let sounds be part of the field.
+    
+- “Nothing to fix. Nothing to improve. Just sensing what’s here.”
+    
+
+## **3:00–5:00 — The Clearing**
+
+- “Imagine creating a small clearing in the dense forest of your life.”
+    
+- “A place where you stop negotiating with the moment.”
+    
+- Let the breath move through that clearing.
+    
+- Spacious, unforced awareness.
+    
+
+## **5:00–7:00 — Earth Practice (MN 62)**
+
+- “Meditate like the earth — able to hold what lands without shrinking.”
+    
+- Pleasant → let it be pleasant.
+    
+- Unpleasant → let it be unpleasant.
+    
+- Neutral → let it be neutral.
+    
+- “The earth doesn’t argue with the weather.”
+    
+
+## **7:00–9:00 — Upekkhā Phrases (Choose 2–3)**
+
+Slow cadence, one phrase per breath cycle:
+
+- “May I meet this moment with balance.”
+    
+- “May I allow things to be as they are.”
+    
+- “May I care without being pulled apart.”
+    
+- “This is how it is.”
+    
+
+Let them repeat silently.
+
+## **9:00–12:00 — The Duck on the Swells**
+
+- “Like the little duck riding the ocean — not fighting, not helpless.”
+    
+- “Lifted and lowered, but at home.”
+    
+- Feel the body as the duck:
+    
+    - Rising and falling with breath.
+        
+    - Held by something larger than effort.
+        
+- “You don’t have to manage the sea.”
+    
+
+## **12:00–14:00 — Capacity, Not Control**
+
+- “Equanimity isn’t shutting down. It’s widening the container.”
+    
+- Let sensations, moods, thoughts come and go like waves.
+    
+- “You don’t have to follow each one. You don’t have to push them away.”
+    
+
+## **14:00–16:00 — The Wide Sky**
+
+- Awareness expands outward:
+    
+    - Thoughts = clouds.
+        
+    - Sensations = wind.
+        
+    - Emotions = passing weather.
+        
+- “The sky doesn’t cling to any of it.”
+    
+
+## **16:00–18:00 — Returning to the Body**
+
+- Back to breath, weight, hands, spine.
+    
+- “Right here is enough.”
+    
+- “Right here is the practice.”
+    
+
+## **18:00–20:00 — Closing / Transition**
+
+- “He isn’t fighting anything, but he isn’t helpless either.”
+    
+- Final phrases:
+    
+    - “May I be steady.”
+        
+    - “May I be kind.”
+        
+    - “May I meet this life as it is.”
+        
+- Invite gentle opening of the eyes.
