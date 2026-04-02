@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-podium-i-pad-checklist/","title":"PRAASA Daily Podium iPad checklist"}
+{"dg-publish":true,"permalink":"/daily-podium-i-pad-checklist/","title":"PRAASA Daily Podium iPad checklist","dg-note-properties":{"title":"PRAASA Daily Podium iPad checklist"}}
 ---
 
 

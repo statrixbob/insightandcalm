@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mobile-audio-setup-macbook-neo/"}
+{"dg-publish":true,"permalink":"/mobile-audio-setup-macbook-neo/","dg-note-properties":{}}
 ---
 
 

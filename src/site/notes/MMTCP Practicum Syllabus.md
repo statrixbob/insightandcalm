@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mmtcp-practicum-syllabus/"}
+{"dg-publish":true,"permalink":"/mmtcp-practicum-syllabus/","dg-note-properties":{}}
 ---
 
 # MMTCP Practicum Syllabus

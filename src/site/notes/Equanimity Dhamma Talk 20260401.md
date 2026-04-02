@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equanimity-dhamma-talk-20260401/"}
+{"dg-publish":true,"permalink":"/equanimity-dhamma-talk-20260401/","dg-note-properties":{}}
 ---
 
 # Selected Content from Google Gemini

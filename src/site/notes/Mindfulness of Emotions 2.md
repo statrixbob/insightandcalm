@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindfulness-of-emotions-2/"}
+{"dg-publish":true,"permalink":"/mindfulness-of-emotions-2/","dg-note-properties":{}}
 ---
 
 # **Mindfulness of Emotions — Beginner Talk (12–15 minutes, with Rilke)**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nomadic-sangha-sound-table/"}
+{"dg-publish":true,"permalink":"/nomadic-sangha-sound-table/","dg-note-properties":{}}
 ---
 
 ### 🎭 Nomadic Master Table: RODE Wireless Pro vs. AirPods Pro 3

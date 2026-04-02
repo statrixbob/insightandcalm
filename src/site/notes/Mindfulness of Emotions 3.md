@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindfulness-of-emotions-3/"}
+{"dg-publish":true,"permalink":"/mindfulness-of-emotions-3/","dg-note-properties":{}}
 ---
 
 

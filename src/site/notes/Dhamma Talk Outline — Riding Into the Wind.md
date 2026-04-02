@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dhamma-talk-outline-riding-into-the-wind/"}
+{"dg-publish":true,"permalink":"/dhamma-talk-outline-riding-into-the-wind/","dg-note-properties":{}}
 ---
 
 

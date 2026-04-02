@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bt-quick-start-audio-settings/"}
+{"dg-publish":true,"permalink":"/bt-quick-start-audio-settings/","dg-note-properties":{}}
 ---
 
 ## 🧘 Hybrid Dharma "Quick Start" Checklist

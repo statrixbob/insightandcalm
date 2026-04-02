@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bt-owl-audio-checklist/"}
+{"dg-publish":true,"permalink":"/bt-owl-audio-checklist/","dg-note-properties":{}}
 ---
 
 # Selected Content from Google Gemini
