@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-bodhi-tree-hawaii/talks/dhamma-talk-outline-riding-into-the-wind/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-bodhi-tree-hawaii/talks/dhamma-talk-outline-riding-into-the-wind/","tags":["bodhitree","dhamma","talk","outline","equanimity"],"dg-note-properties":{"created":"2026-03-04","last_updated":"2026-05-04","summary":"Talk outline on the Eight Worldly Winds (Lokavipatti Sutta) using a bicycle headwind/tailwind metaphor, Han-shan and Ryōkan poetry, and personal reflection on equanimity; includes a 20-minute sitting outline.","tags":["bodhitree","dhamma","talk","outline","equanimity"]}}
 ---
 
 

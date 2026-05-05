@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-mmtcp/practicum/mmtcp-practicum-review-form/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/02-mmtcp/practicum/mmtcp-practicum-review-form/","tags":["mmtcp","practicum","reference"],"dg-note-properties":{"created":"2026-04-22","last_updated":"2026-05-04","summary":"Blank MMTCP practicum review form pre-filled with Bob Harrison's course details for 'Mindfulness in Modern Life,' covering target population, hybrid format, May–June 2026 schedule, and teaching approach.","tags":["mmtcp","practicum","reference"]}}
 ---
 
 

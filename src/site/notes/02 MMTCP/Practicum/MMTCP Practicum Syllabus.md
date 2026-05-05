@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-mmtcp/practicum/mmtcp-practicum-syllabus/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/02-mmtcp/practicum/mmtcp-practicum-syllabus/","tags":["mmtcp","practicum","meditation","reference","bodhitree"],"dg-note-properties":{"created":"2026-04-22","last_updated":"2026-05-04","summary":"Four-week practicum syllabus for 'Introduction to Mindfulness Meditation' at Bodhi Tree Dharma Center, with session-by-session teaching points, guided sits, and Q&A themes; includes optional Week 5 sangha session.","tags":["mmtcp","practicum","meditation","reference","bodhitree"]}}
 ---
 
 # MMTCP Practicum Syllabus

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-bodhi-tree-hawaii/talks/mindfulness-of-emotions/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-bodhi-tree-hawaii/talks/mindfulness-of-emotions/","tags":["bodhitree","dhamma","talk","meditation","mindfulness"],"dg-note-properties":{"created":"2026-03-17","last_updated":"2026-05-04","summary":"12-15 minute beginner talk on mindfulness of emotions, covering feeling tone (vedanā), how tone becomes emotion, the Eight Worldly Winds, three channels of sensing emotion, and Rilke's 'Let This Darkness Be a Bell Tower.'","tags":["bodhitree","dhamma","talk","meditation","mindfulness"]}}
 ---
 
 # **Mindfulness of Emotions — Beginner Talk (12–15 minutes, with Rilke)**

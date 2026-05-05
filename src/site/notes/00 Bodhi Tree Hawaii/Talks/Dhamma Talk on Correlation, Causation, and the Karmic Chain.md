@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-bodhi-tree-hawaii/talks/dhamma-talk-on-correlation-causation-and-the-karmic-chain/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-bodhi-tree-hawaii/talks/dhamma-talk-on-correlation-causation-and-the-karmic-chain/","tags":["bodhitree","dhamma","talk","mindfulness"],"dg-note-properties":{"created":"2026-04-12","last_updated":"2026-05-04","summary":"15-minute talk using data analysis to explain dependent origination — how mindfulness reveals the real causal chain behind suffering versus surface correlations; references SN 12.20, SN 36.6, and poems by Berry and Hirshfield.","tags":["bodhitree","dhamma","talk","mindfulness"]}}
 ---
 
 ar# Selected Content from Microsoft Copilot: Your AI companion

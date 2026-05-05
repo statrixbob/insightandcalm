@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-bodhi-tree-hawaii/talks/equanimity-dhamma-talk-20260401/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-bodhi-tree-hawaii/talks/equanimity-dhamma-talk-20260401/","tags":["bodhitree","dhamma","talk","meditation","upekkhā","equanimity"],"dg-note-properties":{"created":"2026-04-01","last_updated":"2026-05-04","summary":"15-minute talk on equanimity (upekkhā) as active presence, anchored in MN 62's 'be like the earth' teaching, Postlethwaite's 'Clearing' poem, and Babcock's 'Little Duck'; includes a 20-minute sitting outline.","tags":["bodhitree","dhamma","talk","meditation","upekkhā","equanimity"]}}
 ---
 
 # Selected Content from Google Gemini
