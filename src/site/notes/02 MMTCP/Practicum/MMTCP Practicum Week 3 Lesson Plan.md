@@ -384,3 +384,7 @@ Invite them to share one word — just one — that describes where they are rig
 *May this practice support you.*
 *May it support those you teach.*
 *And may it ripple outward in ways you'll never see.*
+
+[obsidian://open?vault=Statrix_Master&file=00%20Bodhi%20Tree%20Hawaii%2FPDF%20Assets%2FThe%20Metta%20Sutta.pdf]
+
+[obsidian://open?vault=Statrix_Master&file=00%20Bodhi%20Tree%20Hawaii%2FPDF%20Assets%2FThe%20Four%20Boundless%20Qualities.pdf]
