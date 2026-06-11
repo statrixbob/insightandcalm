@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-mmtcp/flyer-mindfulness-in-modern-life/","tags":["mmtcp","meditation","dhamma","flyer","practicum","bodhitree"],"dg-note-properties":{"created":"2026-04-04","last_updated":"2026-05-04","summary":"Course flyer for 'Mindfulness in Modern Life,' a four-week hybrid introduction to mindfulness at Bodhi Tree Dharma Center, running Fridays May 15–June 5, 2026, offered as Bob's MMTCP practicum.","tags":["mmtcp","meditation","dhamma","flyer","practicum","bodhitree"]}}
 ---
 
-
+848490
 # 🧘 Mindfulness in Modern Life: An Invitation to Practice
 
 ### A Four-Week Introduction to Mindfulness Meditation
