@@ -12,6 +12,23 @@
 
 ---
 
+### POEM
+
+*Leaves moving,*
+*Sky above,*
+*A wren looks my way.*
+*I smile,*
+*Ground beneath,*
+*Warm in the afternoon sun.*
+*I walk a path through the woods,*
+*The same as last year,*
+*All new.*
+
+— Bob Harrison, June 2026
+*(Spirit Rock)*
+
+---
+
 ### WELCOME (~5 min)
 
 - Bathrooms, water, phones, dana — brief and warm, no pressure
