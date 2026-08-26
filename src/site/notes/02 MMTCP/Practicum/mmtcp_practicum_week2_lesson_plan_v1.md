@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-mmtcp/practicum/mmtcp-practicum-week2-lesson-plan-v1/","tags":["mmtcp","practicum","lesson-plan","teaching"],"dg-note-properties":{"created":"2026-05-22","related":"[[02 MMTCP/Practicum/MMTCP Practicum Talk 2 - Mindfulness of the Body and Breath\|MMTCP Practicum Talk 2 - Mindfulness of the Body and Breath]]","tags":["mmtcp","practicum","lesson-plan","teaching"],"version":"1"}}
+{"dg-publish":true,"permalink":"/02-mmtcp/practicum/mmtcp-practicum-week2-lesson-plan-v1/","tags":["mmtcp","practicum","lesson-plan","teaching"],"dg-note-properties":{"created":"2026-05-22","related":"[[02 MMTCP/Practicum/MMTCP Practicum Talk 2 - Mindfulness of the Body and Breath]]","tags":["mmtcp","practicum","lesson-plan","teaching"],"version":"1"}}
 ---
 
 # Week 2 Lesson Plan — Mindfulness of the Body & Breath
