@@ -103,6 +103,15 @@ Each answered, 
 _Always._
 
 Jane Hirshfield
+The four outcomes:
+
+1. **Bad conduct → hell.** Kills, steals, commits sexual misconduct; uses false, divisive, harsh, or idle speech; covetous, malicious, wrong view → reborn in a bad place (hell).
+2. **Bad conduct → heaven.** Same bad conduct → reborn in a good place (heaven).
+3. **Good conduct → heaven.** Refrains from killing, stealing, sexual misconduct; avoids false, divisive, harsh, or idle speech; contented, kind-hearted, right view → reborn in a good place (heaven).
+4. **Good conduct → hell.** Same good conduct → reborn in a bad place (hell).
+Because conduct and rebirth don't map one-to-one. When a bad person is reborn in heaven, some _other_good deed (done earlier or later) ripens — or they took up right view at death. When a good person is reborn in hell, some _other_ bad deed ripens — or they took up wrong view at death. And any given deed may ripen in this life, the next, or beyond — so what you observe at one moment isn't the whole picture.
+
+That's why a clairvoyant who sees a single case and generalizes ("all bad people go to hell") is reasoning badly: hasty generalization plus post-hoc causation. The Buddha's "great analysis" is different because he sees which deed ripens when, and why. Hence the closing line: there are deeds that appear effective but aren't, and deeds that appear ineffective but are.
 
 MN 136 – The Longer Analysis of Deeds (Mahākammavibhaṅga Sutta) The wanderer Potaliputta visits the junior monk Samiddhi, claiming the Buddha taught that bodily and verbal deeds are futile and only mental deeds are real. Samiddhi rejects this, but when asked what feeling follows an intentional deed of body, speech, or mind, he answers simply "suffering." Potaliputta leaves without responding; Samiddhi reports to Ānanda, and they go to the Buddha. The Buddha criticizes Samiddhi's categorical answer: Potaliputta was asking about the three feelings, and the correct reply is that pleasant, painful, and neutral deeds each produce their corresponding feeling. He then gives his "great analysis of deeds." There are four possible combinations: bad conduct with rebirth in hell; bad conduct with rebirth in heaven; good conduct with rebirth in heaven; and good conduct with rebirth in hell. He explains how ascetics who develop the divine eye observe a single case and wrongly generalize — "all who do bad deeds go to hell," "there is no such thing as bad deeds," etc. — each insisting their view alone is true. The Buddha grants the individual observations but rejects the universal claims: results depend on which deed ripens, including other deeds done previously or later, or the view undertaken at death, and deeds may ripen in this life, the next, or beyond. Hence there are deeds that appear effective but aren't, and vice versa — apparent karmic outcomes cannot be taken as proof of simple one-to-one causation.
 
