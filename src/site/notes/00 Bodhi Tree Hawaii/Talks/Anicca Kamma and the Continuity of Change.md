@@ -222,3 +222,7 @@ The Buddha's image from the Upanisā Sutta:
 - [[00 Bodhi Tree Hawaii/Talks/A Daily Practice of Reflection and Skillfulness\|A Daily Practice of Reflection and Skillfulness]]
 - [[00 Bodhi Tree Hawaii/Reflections/Teacher Touchstones\|Teacher Touchstones]]
 - [[00 Bodhi Tree Hawaii/Reflections/Koans and Touchstones\|Koans and Touchstones]]
+<!-- auto-links -->
+- [[03 Recovery/AA Talks and Articles/Buddhist Steps\|Buddhist Steps]]
+- [[Inbox/10th Step Inventory - 2026-10-11\|10th Step Inventory - 2026-10-11]]
+- [[00 Bodhi Tree Hawaii/Talks/This moment, this very moment, can be held and let go, just as it is.\|This moment, this very moment, can be held and let go, just as it is.]]

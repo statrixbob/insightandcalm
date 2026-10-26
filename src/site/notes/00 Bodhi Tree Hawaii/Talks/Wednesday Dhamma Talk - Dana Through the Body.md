@@ -174,3 +174,10 @@ See also: [MN 113](/suttas/MN/MN113.html); [SN 3:24](/suttas/SN/SN3_24.html); 
     
 -   [![](/static/images/actions/search-symbolic-orange.png)](/search.html "search")
 
+## Related
+<!-- auto-links -->
+- [[02 MMTCP/MMTCP December Points\|MMTCP December Points]]
+- [[02 MMTCP/Practicum/MMTCP_Practicum_Week_5_Lesson_Plan\|MMTCP_Practicum_Week_5_Lesson_Plan]]
+- [[05 Languages/01 Spanish/Spanish Word of the Day#2016-11-03 — la ofrenda\|la ofrenda]]
+- [[05 Languages/01 Spanish/Spanish Word of the Day#2023-11-23 — compartir\|compartir]]
+

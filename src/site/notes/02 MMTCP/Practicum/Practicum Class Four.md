@@ -538,4 +538,8 @@ the Buddha’s bidding,
 done.
 
 ## Related Notes
+<!-- auto-links -->
+- [[02 MMTCP/Practicum/MMTCP Practicum Syllabus\|MMTCP Practicum Syllabus]]
+- [[02 MMTCP/Practicum/MMTCP_Practicum_Week_5_Lesson_Plan\|MMTCP_Practicum_Week_5_Lesson_Plan]]
+- [[00 Bodhi Tree Hawaii/Talks/Anicca Kamma and the Continuity of Change\|Anicca Kamma and the Continuity of Change]]
 

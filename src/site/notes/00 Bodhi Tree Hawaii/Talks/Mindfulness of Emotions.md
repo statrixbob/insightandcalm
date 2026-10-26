@@ -193,3 +193,9 @@ In this uncontainable night, be the mystery at the crossroads of your senses, th
 And if the world has ceased to hear you, say to the silent earth: I flow. To the rushing water, speak: I am.
 
 **Closing cue:** “This poem reminds us that even difficult emotions can become workable when we meet them with awareness — not by pushing them away, but by letting them resonate through us like a bell.”
+
+## Related
+<!-- auto-links -->
+- [[00 Bodhi Tree Hawaii/Talks/The Tiny Hinge of Freedom - Vedana Talk (Bodhi Tree)\|The Tiny Hinge of Freedom - Vedana Talk (Bodhi Tree)]]
+- [[00 Bodhi Tree Hawaii/Sutta Study Notes/Satipatthana_Sutta\|Satipatthana_Sutta]]
+- [[05 Languages/01 Spanish/Spanish Word of the Day#2024-04-01 — la atención\|la atención]]

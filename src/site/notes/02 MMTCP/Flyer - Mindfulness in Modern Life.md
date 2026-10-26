@@ -99,3 +99,8 @@ This course is open to:
 *This course is offered in fulfillment of the practicum requirements for MMTCP certification under the guidance of Jake Dartington.*
 
 *Created: April 4, 2026*
+
+## Related
+<!-- auto-links -->
+- [[02 MMTCP/Practicum/MMTCP Practicum Syllabus\|MMTCP Practicum Syllabus]]
+- [[Mindfulness Practicum – Session 1 Outline\|Mindfulness Practicum – Session 1 Outline]]

@@ -378,3 +378,9 @@ Hold the opening. Let silence do the first work.
 - Week 3: Mary Oliver — "The Journey"
 - Week 4: Mary Oliver — "Mornings at Blackwater" *(Red Bird)*
 - Week 5: No poem — the haunted forest story carries the close
+
+## Related
+<!-- auto-links -->
+- [[02 MMTCP/Practicum/MMTCP Practicum Syllabus\|MMTCP Practicum Syllabus]]
+- [[02 MMTCP/MMTCP Metta Dhamma Talk - The Human Abode\|MMTCP Metta Dhamma Talk - The Human Abode]]
+- [[00 Bodhi Tree Hawaii/Talks/Wednesday Dhamma Talk - Dana Through the Body\|Wednesday Dhamma Talk - Dana Through the Body]]

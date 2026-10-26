@@ -141,3 +141,8 @@ A personal note first.
 - *"How do you tell the difference between noticing thoughts and noticing the mind that's having them?"*
 - *"Did anything surprise you about the mind's weather?"*
 - *"What happens when you don't try to fix the mind, just know it?"*
+
+## Related
+<!-- auto-links -->
+- [[00 Bodhi Tree Hawaii/Sutta Study Notes/Bahiya_Sutta\|Bahiya_Sutta]]
+- [[00 Bodhi Tree Hawaii/Talks/The Tiny Hinge of Freedom - Vedana Talk (Bodhi Tree)\|The Tiny Hinge of Freedom - Vedana Talk (Bodhi Tree)]]

@@ -93,3 +93,12 @@ Sustaining practice, building consistency, integrating mindfulness into daily li
 
 # WEEK 5 (Optional) — Continuing the Journey
 **Focus:** Sangha‑driven session supporting
+
+## Related
+<!-- auto-links -->
+- [[Mindfulness Practicum – Session 1 Outline\|Mindfulness Practicum – Session 1 Outline]]
+- [[02 MMTCP/Practicum/MMTCP Practicum Talk 2 - Mindfulness of the Body and Breath\|MMTCP Practicum Talk 2 - Mindfulness of the Body and Breath]]
+- [[02 MMTCP/Practicum/MMTCP Practicum Week 3 Lesson Plan\|MMTCP Practicum Week 3 Lesson Plan]]
+- [[02 MMTCP/Practicum/Practicum Class Four\|Practicum Class Four]]
+- [[02 MMTCP/Practicum/MMTCP_Practicum_Week_5_Lesson_Plan\|MMTCP_Practicum_Week_5_Lesson_Plan]]
+- [[02 MMTCP/Flyer - Mindfulness in Modern Life\|Flyer - Mindfulness in Modern Life]]

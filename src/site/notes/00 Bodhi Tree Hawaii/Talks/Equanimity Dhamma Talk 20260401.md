@@ -257,3 +257,9 @@ Let them repeat silently.
     - “May I meet this life as it is.”
         
 - Invite gentle opening of the eyes.
+
+## Related
+<!-- auto-links -->
+- [[00 Bodhi Tree Hawaii/Talks/Upekkha Dhamma Talk\|Upekkha Dhamma Talk]]
+- [[00 Bodhi Tree Hawaii/Talks/20260527 Upekkha Evening - Talk and Sit\|20260527 Upekkha Evening - Talk and Sit]]
+- [[05 Languages/01 Spanish/Spanish Word of the Day#2016-09-25 — la ecuanimidad\|la ecuanimidad]]

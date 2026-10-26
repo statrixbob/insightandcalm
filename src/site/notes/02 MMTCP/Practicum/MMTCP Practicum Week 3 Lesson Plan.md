@@ -388,3 +388,8 @@ Invite them to share one word — just one — that describes where they are rig
 [obsidian://open?vault=Statrix_Master&file=00%20Bodhi%20Tree%20Hawaii%2FPDF%20Assets%2FThe%20Metta%20Sutta.pdf]
 
 [obsidian://open?vault=Statrix_Master&file=00%20Bodhi%20Tree%20Hawaii%2FPDF%20Assets%2FThe%20Four%20Boundless%20Qualities.pdf]
+
+## Related
+<!-- auto-links -->
+- [[02 MMTCP/MMTCP Metta Dhamma Talk - The Human Abode\|MMTCP Metta Dhamma Talk - The Human Abode]]
+- [[02 MMTCP/Practicum/MMTCP Practicum Syllabus\|MMTCP Practicum Syllabus]]

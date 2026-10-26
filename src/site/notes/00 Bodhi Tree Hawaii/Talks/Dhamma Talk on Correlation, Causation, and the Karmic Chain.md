@@ -170,3 +170,8 @@ Berry reminds us that confusion is the doorway to the real work. Hirshfield remi
 And the Buddha reminds us that when we see the real causal chain clearly, freedom becomes possible.
 
 **Thank you.**
+
+## Related
+<!-- auto-links -->
+- [[00 Bodhi Tree Hawaii/Talks/Anicca Kamma and the Continuity of Change\|Anicca Kamma and the Continuity of Change]]
+- [[Paññā session — source-only outline\|Paññā session — source-only outline]]
